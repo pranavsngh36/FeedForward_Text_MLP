@@ -42,6 +42,7 @@ The dataset used in this project is the Pima Indians Diabetes Dataset, which con
 ## Project Structure
 
 feedforward_diabetes.ipynb: The main Jupyter Notebook containing the code for data preprocessing, model building, training, and evaluation.
+
 diabetes.csv: The dataset file (ensure this is in the same directory as the notebook).
 
 # Author
